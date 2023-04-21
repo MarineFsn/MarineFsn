@@ -1,9 +1,9 @@
 Hi there , 
-- Marine , 33 , Charleroi. 
+- :ringed_planet: Marine , 33 y/o , Charleroi. 
 - :jigsaw: Learner since birth.
 - :joystick:Technology and gaming junkie.
-- 
 - 🌱 I’m currently learning Javascript @ BeCode.org in Charleroi.
+- :computer: working on my Web Dev skills.
 
 |                                                       Quelques statistiques                                                       |     |                                                                                                                     |
 | :-------------------------------------------------------------------------------------------------------------------------------: | :-: | :-----------------------------------------------------------------------------------------------------------------: |
