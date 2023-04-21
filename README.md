@@ -1,5 +1,8 @@
-Hi there 👋
-
+Hi there , 
+- Marine , 33 , Charleroi. 
+- :jigsaw: Learner since birth.
+- :joystick:Technology and gaming junkie.
+- 
 - 🌱 I’m currently learning Javascript @ BeCode.org in Charleroi.
 
 |                                                       Quelques statistiques                                                       |     |                                                                                                                     |
