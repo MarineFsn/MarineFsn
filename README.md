@@ -2,8 +2,7 @@ Hi there ,
 - :ringed_planet: Marine , 34 y/o , Charleroi. 
 - :jigsaw: Learner since birth.
 - :joystick:Technology and gaming junkie.
-- 🌱 I’m currently learning Javascript @ BeCode.org in Charleroi.
-- :computer: working on my Web Dev skills.
+- 🌱 Dev skills loading @ BeCode.org Charleroi.
 
 
 |                                                       Quelques statistiques                                                       |     |                                                                                                                     |
