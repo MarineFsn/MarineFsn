@@ -2,7 +2,7 @@ Hi there ,
 - :ringed_planet: Marine , 36 y/o , Liège. 
 - :jigsaw: Learner since birth.
 - :joystick:Technology and gaming junkie.
-- 🌱 Full stack Dev @ Fastback 
+- 🌱 Full stack Dev @ Fastback. 
 
   
 
